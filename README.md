@@ -1,4 +1,6 @@
-﻿Project Task: Week 1 // Applied data science with Python
+#  Project 
+
+Task: Week 1 // Applied data science with Python
 
 1. Import and aggregate data:
 a. Collect information related to flights, airports (e.g., type of airport and elevation), and runways 
